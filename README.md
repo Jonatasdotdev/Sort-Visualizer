@@ -25,15 +25,7 @@ O projeto está estruturado da seguinte forma:
 4. Execute o aplicativo:
     ```sh
     java -cp bin src.main.java.sortvisualiser.MainApp
-    ```
-
-## Planejamento Futuro
-
-Este projeto ainda está em desenvolvimento e há várias funcionalidades planejadas para as próximas versões:
-
-- Implementação de passagem de parâmetros via CLI.
-- Melhoria na interface gráfica.
-- Inclusão de testes automatizados.
+    ```.
 
 ## Contribuições
 
