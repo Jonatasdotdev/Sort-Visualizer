@@ -34,6 +34,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 ## Imagens:
 ![sort](https://github.com/user-attachments/assets/559a654c-d520-48cb-8a5d-454662036d8c)
 
+![gifsort](https://github.com/user-attachments/assets/5f14bce1-eafc-4cf9-a932-7586f172edd2)
+
 
 ## Licença
 
