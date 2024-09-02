@@ -31,6 +31,10 @@ O projeto está estruturado da seguinte forma:
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests com sugestões e melhorias.
 
+## Imagens:
+![sort](https://github.com/user-attachments/assets/559a654c-d520-48cb-8a5d-454662036d8c)
+
+
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
