@@ -2,11 +2,6 @@
 
 Sort Visualizer é um aplicativo Java Swing para visualização de algoritmos de ordenação. possui funcionalidades para demonstrar como diferentes algoritmos de ordenação operam.
 
-## Estrutura do Projeto
-
-O projeto está estruturado da seguinte forma:
-- `src/main/java/sortvisualiser`: Contém a classe principal `MainApp` e as telas (`screens`) do aplicativo.
-- `src/main/java/sortvisualiser/screens`: Contém as diferentes telas utilizadas no aplicativo, como `MainMenuScreen`.
 
 ## Funcionalidades
 
